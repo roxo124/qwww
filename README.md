@@ -1,4 +1,4 @@
 qwww
 ====
 
-%3c &lt;script > rwevrvevreve
+%3c <script > alert(123);</script>
